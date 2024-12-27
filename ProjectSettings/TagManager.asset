@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mngr_player
+  - mngr_general
+  - mngr_ui
+  - mngr_static
+  - mngr_environment
+  - mngr_camera
+  - static
+  - animation
+  - attacher
+  - wepon_damage
+  - player_attack
+  - interactable
+  - enemy
+  - enemy_damage
+  - weapon_unactive
+  - mngr_enemy
+  - money
+  - drop
+  - Ally
+  - drop_ally
+  - mngr_ally
+  - sound_player
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - static
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
